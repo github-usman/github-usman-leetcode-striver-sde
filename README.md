@@ -7,5 +7,6 @@
 4. Arrays - IV completed
 ---
 **_Link List_**
-1. Linked List completed
-2. Linked List II - testing window ssh
+1. Linked List - completed
+2. Linked List II - 1Q, Flattening Linked list Remaining
+3. Linked List And Array - Competed
