@@ -10,3 +10,4 @@
 1. Linked List - completed
 2. Linked List II - 1Q, Flattening Linked list Remaining
 3. Linked List And Array - Competed
+4. Greedy Algorithm - 3Q,1-Rail,2-coin,3-job
